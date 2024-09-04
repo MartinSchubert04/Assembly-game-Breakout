@@ -1,0 +1,5 @@
+tlink /t tsr
+tsr
+tasm tpf
+tlink tpf
+tpf
