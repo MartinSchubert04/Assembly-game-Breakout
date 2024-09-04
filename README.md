@@ -1,2 +1,2 @@
-# Assembly-game-Breakout
-written in assembly
+# Assembly game: Breakout
+written in assembly (not finished)
