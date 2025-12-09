@@ -3,6 +3,6 @@ written in assembly (not finished)
 
 ### Compila and execute
 
-- Intall DOSbox
+- Install DOSbox
 - drop .asm files in C:/TASM
 - compile following the compila.txt instructions
