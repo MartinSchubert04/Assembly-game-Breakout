@@ -1,7 +1,7 @@
 # Assembly game: Breakout
 written in assembly (not finished)
 
-### Compila and execute
+### Compile and execute
 
 - Install DOSbox
 - drop .asm files in C:/TASM
